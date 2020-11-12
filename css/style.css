@@ -52,11 +52,13 @@ a :visited{
 
 li a{
     font-weight: bolder;
-    color: darkviolet;
+    color: cyan;
     text-decoration: none;
 }
 #tribute-link a{
     font-weight: bold;
+    text-decoration: none;
+    color: cyan;
 }
 @media (min-width:450px){
     img{
